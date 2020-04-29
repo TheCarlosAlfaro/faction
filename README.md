@@ -2,8 +2,6 @@
 
 A custom barbershop application.
 
-![Barber cutting hair](https://unsplash.com/photos/Yb6tFZfh28Y)
-
 ## Features
 
 - User
