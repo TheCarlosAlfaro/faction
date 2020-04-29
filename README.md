@@ -18,4 +18,7 @@ A custom barbershop application.
 
 ## ToDo
 
-[]Initialize a git repository and push to github
+- [x] Initialize a git repository and push to github
+- [ ] Install NextJS
+- [ ] Initialize NPM
+- [ ] Start figuring out how to make appointments
