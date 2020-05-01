@@ -13,12 +13,13 @@ A custom barbershop application.
 ## Technologies
 
 - [NextJS](https://nextjs.org/)
-- [FireBase](https://firebase.google.com/) for the datebase \*maybe
+- [NodeJS](https://nodejs.org/en/) for API and backend
 - [Twilio](https://www.twilio.com/) \*maybe for sms
 
 ## ToDo
 
 - [x] Initialize a git repository and push to github
-- [ ] Install NextJS
+- [x] Design simple version of home page with book now button
+- [x] Install NextJS
 - [ ] Initialize NPM
 - [ ] Start figuring out how to make appointments
