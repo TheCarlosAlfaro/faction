@@ -47,7 +47,7 @@ function Header() {
       <div className="bar">
         <Logo>
           <Link href="/">
-            <a>Sick Fits</a>
+            <a>Faction</a>
           </Link>
         </Logo>
         <Nav />
